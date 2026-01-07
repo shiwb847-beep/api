@@ -1,0 +1,6 @@
+.venv/
+.idea/
+!.gitignore
+__pycache__/
+logs/
+reporters/
